@@ -1,6 +1,7 @@
 # Philip is generally testing in Google Colab
 # This reflects the code in the root datafram directory, only adapted for testing in this environment
 # This assumes the CSV is uploaded...although it can be downloaded to colab from Kaggle using a user key
+# At this point, the repo is not synved to colab, since it is private (manual copy/paste)
 
 # BEGIN
 # Initialize Spark session
