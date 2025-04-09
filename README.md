@@ -1,20 +1,40 @@
-# big-data-pipeline-sparky
-Collaborative project for a data science course.
+# 🚀 big-data-pipeline-sparky  
+A collaborative data science project built for course credit — and for fun! 🧠💡  
+Here we explore some big data tools like Apache Spark, MongoDB, and Google Colab, using the TMDB movie dataset as our playground 🎬  
 
-__Table of Contents__
+---
 
-- [Spark Dataframe](spark-dataframe) (Top Level Folder)
-- ↳ [colab-mongo-spark-dataview-integration](spark-dataframe/colab-mongo-spark-dataview-integration) (integrating all features)
-- ↳ [data-manipulation](spark-dataframe/data-manipulation) (includes any data pre-processing) 
-- ↳ [data-views](spark-dataframe/data-views) (includes demonstrating different visualization)
-- ↳ [google-colab-testing](spark-dataframe/google-colab-testing) (includes initial testing with Google Colab)
+## 📚 Table of Contents
 
-__Issues Related to Project__
+### 📁 [Spark Dataframe](spark-dataframe) – Main project folder  
+Contains everything from data prep to final integration.
 
-- [Project Issues](https://github.com/psword/big-data-pipeline-sparky/issues)
-- [Project Log](https://github.com/users/psword/projects/3/views/1)
+- 🔗 [colab-mongo-spark-dataview-integration](spark-dataframe/colab-mongo-spark-dataview-integration)  
+  ➡️ Full pipeline: Colab + Spark + MongoDB + Dataview  
+- 🧹 [data-manipulation](spark-dataframe/data-manipulation)  
+  ➡️ Data cleaning, formatting, and prepping  
+- 📊 [data-views](spark-dataframe/data-views)  
+  ➡️ Visualization experiments and data exploration  
+- 🧪 [google-colab-testing](spark-dataframe/google-colab-testing)  
+  ➡️ Testbed for Spark, MongoDB, and Drive integration in Colab
 
-## Here is the driver for this repository:
+---
+
+## 🔧 Project Links
+
+- 🐞 [Project Issues](https://github.com/psword/big-data-pipeline-sparky/issues) – Log bugs, improvements, or questions  
+- 📋 [Project Log](https://github.com/users/psword/projects/3/views/1) – Progress and planning board
+
+---
+
+## 👥 Contributors  
+[_Satu-source_](https://github.com/Satu-source)
+
+[_JKin-0_](https://github.com/JKin-0)
+
+---
+
+## The driver :car: for this repository:
 
 📚Final Project: Big Data Pipeline with Apache Spark & MongoDB
 
