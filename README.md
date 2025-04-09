@@ -28,10 +28,12 @@ Contains everything from data prep to final integration.
 ---
 
 ## 👥 Contributors  
-[_Satu-source_](https://github.com/Satu-source)
-
-[_JKin-0_](https://github.com/JKin-0)
-
+- *️⃣ [Satu-source](https://github.com/Satu-source)
+  📊 Data views and loading into Mongo
+- *️⃣ [JKin-0](https://github.com/JKin-0)
+  🧹 Data preparation and filtering
+- *️⃣ [psword](https://github.com/psword)
+  🧪 Colab testing between and GitHub host
 ---
 
 ## The driver :car: for this repository:
