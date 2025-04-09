@@ -1,8 +1,42 @@
-# big-data-pipeline-sparky
-Collaborative project for a data science course.
+# 🚀 big-data-pipeline-sparky  
+A collaborative data science project built for course credit — and for fun! 🧠💡  
+Here we explore some big data tools like Apache Spark, MongoDB, and Google Colab, using the TMDB movie dataset as our playground 🎬  
 
+---
 
-## Here is the driver for this repository:
+## 📚 Table of Contents
+
+### 📁 [Spark Dataframe](spark-dataframe) – Main project folder  
+Contains everything from data prep to final integration.
+
+- 🔗 [colab-mongo-spark-dataview-integration](spark-dataframe/colab-mongo-spark-dataview-integration)  
+  ➡️ Full pipeline: Colab + Spark + MongoDB + Dataview  
+- 🧹 [data-manipulation](spark-dataframe/data-manipulation)  
+  ➡️ Data cleaning, formatting, and prepping  
+- 📊 [data-views](spark-dataframe/data-views)  
+  ➡️ Visualization experiments and data exploration  
+- 🧪 [google-colab-testing](spark-dataframe/google-colab-testing)  
+  ➡️ Testbed for Spark, MongoDB, and Drive integration in Colab
+
+---
+
+## 🔧 Project Links
+
+- 🐞 [Project Issues](https://github.com/psword/big-data-pipeline-sparky/issues) – Log bugs, improvements, or questions  
+- 📋 [Project Log](https://github.com/users/psword/projects/3/views/1) – Progress and planning board
+
+---
+
+## 👥 Contributors  
+- *️⃣ [Satu-source](https://github.com/Satu-source)
+  📊 Data views and loading into Mongo
+- *️⃣ [JKin-0](https://github.com/JKin-0)
+  🧹 Data preparation and filtering
+- *️⃣ [psword](https://github.com/psword)
+  🧪 Colab testing between and GitHub host
+---
+
+## The driver :car: for this repository:
 
 📚Final Project: Big Data Pipeline with Apache Spark & MongoDB
 
