@@ -31,8 +31,12 @@ Cloud tools and big data can working together on a movie dataset 🎬
 - If 1-click does not work for some reason, download the notebook, and import it into Colab.
 - If you are a part of the course this is intended for (only in Spring 2025), you may run it. Otherwise, don't run it (I know you'll try)...but the connection will have expired anyway.
 - In that case, you should:  
-  ❗Obtain a copy of the dataset from Kaggle (see the [DATASET_LICENSE](DATASET_LICENSE)), set it up in MongoDB ATLAS, and adapt the connection string for your own scenario in the Notebook.  
+  ❗Obtain a copy of the dataset from Kaggle (see the [DATASET_LICENSE](DATASET_LICENSE)), set it up in MongoDB ATLAS,
+      and adapt the connection string for your own scenario in the Notebook.  
+  *  
+  OR  
+  *  
   ❗Obtain a copy of the dataset in CSV form, upload the file to Colab, and adapt the Spark session for that scenario for testing.  
-    📄 You will find an adaptation for that case in the [colab-testing](spark-dataframe/google-colab-testing/colab-testing.py) folder.
+    - 📄 You will find an adaptation for that case in the [colab-testing](spark-dataframe/google-colab-testing/colab-testing.py) folder.
   
   🧪 Happy Data-ing!
