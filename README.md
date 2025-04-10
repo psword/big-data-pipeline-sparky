@@ -9,6 +9,8 @@ Here we explore some big data tools like Apache Spark, MongoDB, and Google Colab
 ### 📁 [Spark Dataframe](spark-dataframe) – Main project folder  
 Contains everything from data prep to final integration.
 
+- 📔 [final-notebook-version](spark-dataframe/final-notebook-version)
+  ➡️ Final Notebook Version (full-pipeline): Can be imported into Colab and executed
 - 🔗 [colab-mongo-spark-dataview-integration](spark-dataframe/colab-mongo-spark-dataview-integration)  
   ➡️ Full pipeline: Colab + Spark + MongoDB + Dataview  
 - 🧹 [data-manipulation](spark-dataframe/data-manipulation)  
