@@ -29,8 +29,7 @@ Cloud tools and big data can working together on a movie dataset 🎬
 - The ![image](https://github.com/user-attachments/assets/3ea68c26-52d5-4e57-ab57-c71319915fcd) button (not this one...but the one in the notebook)
   is up-to-date and has been tested for 1-click import directly into Colab.  
 - If 1-click does not work for some reason, download the notebook, and import it into Colab.
-- If you are a part of the course this is intended for (only in Spring 2025), you may run it. Otherwise, don't run it (I know you'll try)...but the connection will have expired anyway.
-- In that case, you should:  
+- Next:  
   ❗Obtain a copy of the dataset from Kaggle (see the [DATASET_LICENSE](DATASET_LICENSE)), set it up in MongoDB ATLAS,
       and adapt the connection string for your own scenario in the Notebook.  
   *  
